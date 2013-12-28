@@ -1,0 +1,9 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\LazyLoad\bin\Debug\LazyLoad.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\LazyLoad\bin\Debug\LazyLoad.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\LazyLoad\bin\Debug\LazyLoad.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\LazyLoad\obj\Debug\LazyLoad.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\LazyLoad\obj\Debug\LazyLoad.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\LazyLoad\obj\Debug\LazyLoad.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\LazyLoad\bin\Debug\LazyLoad.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\LazyLoad\obj\Debug\LazyLoad.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\LazyLoad\obj\Debug\LazyLoad.pdb

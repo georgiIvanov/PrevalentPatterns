@@ -1,0 +1,9 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Repository\bin\Debug\Repository.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Repository\bin\Debug\Repository.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Repository\bin\Debug\Repository.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Repository\obj\Debug\Repository.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Repository\obj\Debug\Repository.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Repository\bin\Debug\Repository.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Repository\obj\Debug\Repository.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Repository\obj\Debug\Repository.pdb

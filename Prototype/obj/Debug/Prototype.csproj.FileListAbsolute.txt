@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Prototype\bin\Debug\Prototype.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Prototype\obj\Debug\Prototype.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Prototype\obj\Debug\Prototype.pdb
