@@ -4,3 +4,6 @@ C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrar
 C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
 C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Mediator\obj\Debug\Mediator.exe
 C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Pluralsight\PatternsLibrary\Mediator\obj\Debug\Mediator.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Mediator\obj\Debug\Mediator.pdb
