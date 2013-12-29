@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Visitor\obj\Debug\Visitor.pdb
