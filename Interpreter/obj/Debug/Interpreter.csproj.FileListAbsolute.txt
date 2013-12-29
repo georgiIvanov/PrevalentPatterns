@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\OnlineProjects\PrevalentPatterns\Interpreter\obj\Debug\Interpreter.pdb
